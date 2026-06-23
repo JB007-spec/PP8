@@ -227,6 +227,9 @@ Also it can be easily automated.
 
 * **What is the difference between redirecting to stdin and explicitly opening a file with `fopen`?**
 
+With stdin the programm will read from the beginning whill detect if the input comes from the keyboard or a file.
+fopen tells a programm to use this specific input from this file.
+
 ---
 
 ### Task 5: Caesar Cipher & Prototype Asymmetric XOR Cipher
