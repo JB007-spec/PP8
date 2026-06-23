@@ -420,6 +420,9 @@ fopen tells a programm to use this specific input from this file.
 
 * **Explain in your own words what the encryption and decryption processes are doing in both ciphers.**
 
+The Caesar Cipher is just moving the position of the letters in the alphabet. The Asymetric XOR Cipher is using numbers and other symbols to encrypt the whole text. It can be seen again with the given key. The Asym. XOR Cipher is not just moving the letters up or down the alphabet it will give each character a different symbol.
+
+
 ---
 
 **Remember:** Stop after **90 minutes** and record where you stopped.
