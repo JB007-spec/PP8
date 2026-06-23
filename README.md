@@ -134,7 +134,12 @@ In this exercise you will:
 #### Reflection Questions
 
 1. **How do you pass a file name to a program using the `-i` and `-o` options?**
+
+One has to put infront of the output file -o and before the input file -i.
+
 2. **What are typical use cases for parameters versus flags? How do the differ from one another?**
+
+Flags are used to turn on or off the program. Parameters are being used to aktivate or deaktivate a program when a certain value is needed.
 
 ---
 
