@@ -193,6 +193,9 @@ Flags are used to turn on or off the program. Parameters are being used to aktiv
 
 * **Why is a run-to-completion (batch) approach often preferable to interactive input?**
 
+Its usually faster to give the programm all necessary information all at once then tediously feeding the progamm with scanf. fscanf will read the whole files in nanoseconds.
+Also it can be easily automated.
+
 ---
 
 ### Task 4: Input Redirection from STDIN
